@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Abaixo um pouco sobre mim
 🤵Estudante de TDS ( Técnico em Desenvolvimento de Sistemas)<br>🎻Amante da música<br>💭Sempre disposto a aprender cada vez mais<br>🧐Mente aberta para novas ideias<br>
 
 # 📊 GitHub Stats:
