@@ -1,4 +1,5 @@
 # Abaixo um pouco sobre mim
+```json
 {
   "nome": "Luiz",
   "cargo": "Desenvolvedor Back-end (em formação)",
@@ -11,6 +12,7 @@
   },
   "estudando_agora": ["Node.js", "MySQL"],
   "contato": {
-    "email": "luizrafael404101@gmail.com",
+    "email": "luizrafael404101@gmail.com"
   }
 }
+```
