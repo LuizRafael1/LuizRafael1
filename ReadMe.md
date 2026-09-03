@@ -1,2 +1,16 @@
 # Abaixo um pouco sobre mim
-Estudante de TDS ( Técnico em Desenvolvimento de Sistemas)<br>Amante da música<br>Disposto a aprender cada vez mais<br>Mente aberta para novas ideias<br>
+{
+  "nome": "Luiz",
+  "cargo": "Desenvolvedor Back-end (em formação)",
+  "tipo": "autodidata",
+  "status": "buscando minha primeira oportunidade",
+  "stack": {
+    "linguagens": ["JavaScript", "Python"],
+    "front_end_base": ["HTML", "CSS", "React"],
+    "ferramentas": ["Git", "GitHub"]
+  },
+  "estudando_agora": ["Node.js", "MySQL"],
+  "contato": {
+    "email": "luizrafael404101@gmail.com",
+  }
+}
